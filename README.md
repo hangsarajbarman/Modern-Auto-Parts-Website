@@ -1,4 +1,4 @@
-# 🚗 Modern Auto Parts - Professional Car Services Platform
+# Modern Auto Parts - Professional Car Services Platform
 
 <div align="center">
 
